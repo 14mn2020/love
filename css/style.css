@@ -44,6 +44,21 @@ hr{
     line-height: 30px;
     width: 1750px;
 }
+.text-f{
+    margin: 0 auto;
+    width: 1000px;
+    font-size: 30px;
+    color: red;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.sad{
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 .footer{
     margin-top: 20px;
     margin-bottom: 20px;
