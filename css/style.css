@@ -5,11 +5,6 @@ a{
     outline: none;
     color: black;
 }
-ul{
-    justify-content: space-between;
-    display: flex;
-    -webkit-tap-highlight-color property: none
-}
 .nav{
     color: gray;
     padding: 150px;
@@ -17,6 +12,9 @@ ul{
     
 }
 .nav-ul{
+    justify-content: space-between;
+    display: flex;
+    -webkit-tap-highlight-color property: none;
     font-size: 30px;
     margin-top: 100px;
     margin-bottom: 50px;
@@ -58,6 +56,12 @@ hr{
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+.date-li{
+    line-height: 40px;
+    text-align: center;
+    font-size: 24px;
+    color: #857c22;
 }
 .footer{
     margin-top: 20px;
