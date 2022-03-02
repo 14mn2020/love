@@ -14,7 +14,7 @@ a{
 .nav-ul{
     justify-content: space-between;
     display: flex;
-    -webkit-tap-highlight-color property: none;
+    -webkit-tap-highlight-colorproperty: none;
     font-size: 30px;
     margin-top: 100px;
     margin-bottom: 50px;
@@ -80,7 +80,21 @@ hr{
   .images{
       width: 100%;
       height: auto;
-  }
+}
+.wrapper{
+    text-align: center;
+    
+}
+.videos{
+    margin-right: 100px;
+    display: inline-block;
+    margin: 0 auto;
+    
+}
+.x{
+    margin-right: 100px;
+    margin-left: 100px;
+}
 .footer{
     margin-top: 20px;
     margin-bottom: 20px;
